@@ -1,0 +1,8 @@
+FileVersion:2
+Type:Static
+Guid:882EB02D-EA40-4875-14CF-B49F799C11CC
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Environment/SM_Floor.SM_Floor
+/Game/Environment/SM_Pillar.SM_Pillar
+/Game/Environment/SM_Wall.SM_Wall
